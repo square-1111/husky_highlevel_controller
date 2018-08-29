@@ -7,5 +7,4 @@
   <node name="husky_highlevel_controller" pkg="husky_highlevel_controller" type="controller.py" output="screen">
     <rosparam command="load" file="$(find husky_highlevel_controller)/config/config.yaml" />
   </node>
-
 </launch>
