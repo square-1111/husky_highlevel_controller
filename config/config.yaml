@@ -1,2 +1,4 @@
 name: "husky_highlevel_controller"
 queue_size: 1
+linear_gain: 11.0
+angular_gain: 10
